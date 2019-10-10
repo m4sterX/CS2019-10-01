@@ -33,6 +33,7 @@ Scanner sc=new Scanner(System.in);
 
  */
 
-class TaskA1 {
+class
+TaskA1 {
 
 }
