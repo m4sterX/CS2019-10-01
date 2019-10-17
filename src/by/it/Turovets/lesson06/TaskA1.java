@@ -1,4 +1,4 @@
-package by.it._tasks_.lesson06;
+package by.it.Turovets.lesson06;
 
 /*
 Геттеры и сеттеры для класса Dog
