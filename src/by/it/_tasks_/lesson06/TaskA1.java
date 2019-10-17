@@ -30,5 +30,13 @@ package by.it._tasks_.lesson06;
 
 
 public class TaskA1 {
+    public static void main(String[] args) {
 
+    }
+class Dog{
+    Dog dog = new Dog(String name, int age);
+    private String name;
+    private int age;
+    public
+    }
 }
